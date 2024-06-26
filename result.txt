@@ -1,0 +1,5 @@
+SVM score: 0.82
+DecisionTree score: 0.86
+Bagging with DecisionTree score: 0.84
+Random forest score: 0.87
+Boosting with DecisionTree score: 0.84
